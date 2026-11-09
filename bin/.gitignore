@@ -1,0 +1,8 @@
+# Artefatos de compilação Java
+*.class
+
+# Arquivos de teste/scratch locais
+teste_*.txt
+
+# Logs
+*.log
