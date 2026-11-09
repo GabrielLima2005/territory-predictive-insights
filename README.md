@@ -335,9 +335,8 @@ Sugestão de divisão entre 3 integrantes (preencher com os nomes reais):
 
 | Integrante | Responsabilidade | Arquivos principais |
 |---|---|---|
-| Integrante 1 — *(nome)* | Sensores e estação | `Sensor`, `SensorChuva`, `SensorNivelRio`, `SensorUmidade`, `EstacaoDeColeta` |
-| Integrante 2 — *(nome)* | Previsões | `EstrategiaPrevisao`, `PrevisaoMediaMovel`, `PrevisaoComparacao` |
-| Integrante 3 — *(nome)* | Dados, alertas e menu | `DadosTerritorio`, `ComponenteTerritorial`, `NivelAlerta`, `SistemaAlertas`, `SistemaMonitoramento` |
+| Integrante 1 — Gabriel Lima da Silva | Sensores e estação | `Sensor`, `SensorChuva`, `SensorNivelRio`, `SensorUmidade`, `EstacaoDeColeta` |
+| Integrante 2 — Nicolas Araujo de Oliveira| Previsões | `EstrategiaPrevisao`, `PrevisaoMediaMovel`, `PrevisaoComparacao` |
 
 **Todos** devem commitar no GitHub com mensagens claras e revisar o código conjunto.
 Exemplos de commits:
